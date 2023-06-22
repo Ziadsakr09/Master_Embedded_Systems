@@ -1,8 +1,8 @@
 /*
- * EX3.c
+ * Write C Program to Find ASCII Value of a Character
  *
  *  Created on: Jun 22, 2023
- *      Author: Ahmed
+ *      Author: Ziad
  */
 
 
