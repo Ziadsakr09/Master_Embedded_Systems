@@ -1,5 +1,6 @@
 /*
- * main.c
+ * Write C Program to Print a Integer Entered by a User
+
  *
  *  Created on: Jun 22, 2023
  *      Author: Ahmed
