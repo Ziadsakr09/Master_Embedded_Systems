@@ -1,8 +1,9 @@
 /*
- * EX3.c
+ * Write C Program to Multiply two Floating Point Numbers
+
  *
  *  Created on: Jun 22, 2023
- *      Author: Ahmed
+ *      Author: Ziad
  */
 
 
