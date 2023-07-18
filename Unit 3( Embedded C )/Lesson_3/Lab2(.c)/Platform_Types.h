@@ -1,8 +1,7 @@
 /*
  * Platform_Types.h
  *
- * Created on : Dec 22, 2021
- *     Author : Mina Karam
+ 
  */
 
 #ifndef PLATFORM_TYPES_H_

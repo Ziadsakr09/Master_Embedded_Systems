@@ -1,6 +1,6 @@
 /*	main.c
 *
-*	CopyRight : Mina Karam	
+*	CopyRight : Ziad Sakr	
 */
 
 

@@ -1,6 +1,6 @@
 /*	Cortex-M3_startup.c
 *
-*	CopyRight : Mina Karam	
+*	CopyRight : Ziad Sakr	
 */
 
 #include "Platform_Types.h"

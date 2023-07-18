@@ -1,4 +1,4 @@
-#@CopyRight at Mina Karam
+#@CopyRight at Ziad Sakr
 #@Description : This is the generic makefile for arm32 projects
 
 CC     =arm-none-eabi-
